@@ -21,6 +21,8 @@ When alarm is turned on, green LED light is working, and it’s unarmed by defau
 
 ## Problem Formulation
 ## ProjectPlan
+### State Machine Diagram
+![](https://github.com/mwpodgorni/asm-project/blob/master/StateMachineDiagramPic.png)
 ## Implementation
 
 ### Constructed circuit
