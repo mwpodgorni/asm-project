@@ -21,7 +21,7 @@ When alarm is turned on, green LED light is working, and it’s unarmed by defau
 ## Implementation
 
 ###Constructed circuit
-![alt text](http://url/to/img.png)
+![](https://github.com/mwpodgorni/asm-project/blob/master/circuitPic.png)
 
 
 
