@@ -21,13 +21,17 @@ When alarm is turned on, green LED light is working, and it’s unarmed by defau
 
 ## Problem Formulation
 What is the best way to create such a device?
+
 How can it be more optimized using Assembly than using c++?
+
 How to make buttons respond with the right action?
 ## ProjectPlan
 ### State Machine Diagram
 ![](https://github.com/mwpodgorni/asm-project/blob/master/StateMachineDiagramPic.png)
 ## Implementation
-
+Check Assembly file
+## Testing
+![](https://github.com/mwpodgorni/asm-project/blob/master/testing.png)
 ### Constructed circuit
 ![](https://github.com/mwpodgorni/asm-project/blob/master/circuitPic.png)
 
